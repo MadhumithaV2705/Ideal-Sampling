@@ -185,10 +185,7 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-```
 <img width="1160" height="819" alt="image" src="https://github.com/user-attachments/assets/50edd0df-5b1c-4425-a83e-e5251772bfb5" />
-
-```
 
 # Results
 Thus, the waveform for Ideal Sampling, Natural Sampling and Falt-Top Sampling is successully verifed.
