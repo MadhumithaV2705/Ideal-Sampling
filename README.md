@@ -5,7 +5,6 @@ Write a simple Python program for the construction and reconstruction of ideal, 
 
 # Tools required
 Google Colab
-Python IDE
 
 # Program
 
