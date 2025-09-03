@@ -4,6 +4,7 @@ Write a simple Python program for the construction and reconstruction of ideal, 
 # Tools required
 Google Colab
 # Program
+### 1a. IDEAL SAMPLING
 ```
 import numpy as np
  import matplotlib.pyplot as plt
@@ -43,8 +44,9 @@ import numpy as np
  plt.show()
 ```
 ### OUTPUT:
-![Uploading image.png…]()
+<img width="719" height="981" alt="image" src="https://github.com/user-attachments/assets/930bc025-b520-453b-9ee2-547d614dcc3d" />
 
+### 1B. NATURAL SAMPLING
 ```
 import numpy as np
  import matplotlib.pyplot as plt
@@ -107,8 +109,9 @@ import numpy as np
 
 ```
 ### OUTPUT:
-![Uploading image.png…]()
+<img width="1154" height="821" alt="image" src="https://github.com/user-attachments/assets/a5c0bb82-81b7-4bf4-8124-77d12ab386eb" />
 
+### 1C. FLAT TOP SAMPLING
 ```
 #Flat-top Sampling
 import numpy as np
@@ -183,13 +186,10 @@ plt.show()
 ```
 # Output Waveform
 ```
-![Uploading image.png…]()
-
+<img width="1160" height="819" alt="image" src="https://github.com/user-attachments/assets/50edd0df-5b1c-4425-a83e-e5251772bfb5" />
 
 ```
 
 # Results
-```
-Attach the output waveform
-```
-# Hardware experiment output waveform.
+Thus, the waveform for Ideal Sampling, Natural Sampling and Falt-Top Sampling is successully verifed.
+
